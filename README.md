@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ChacalTordu (Léo)</h1>
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
+<img algin ="right" alt="Coding" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🔭 I’m currently working on [ChacalSite](https://github.com/ChacalTordu/ChacalSite)
 
