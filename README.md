@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [ChacalSite](https://github.com/ChacalTordu/ChacalSite)
 
-- 🌱 I’m currently learning **React.js / Tailwind CSS / Flask**
-
 - 🔭 I’m also currently working on [ChacalBot](https://github.com/ChacalTordu/ChacalBot)
+
+- 🌱 I’m currently learning **React.js / Tailwind CSS / Flask**
 
 - 📫 How to reach me **chacal.entreprise@gmail.com**
 
-- 📄 About my willingness [Embeed system engineer but, I want to explore development in its entirety](Embeed system engineer but, I want to explore development in its entirety)
+- 📄 About my willingness, Embeed system engineer but, I want to explore development in its entirety
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
