@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chacal.entreprise@gmail.com**
 
-- 📄 About my willingness, Embeed system engineer but, I want to explore development in its entirety
+- 📄 Speaking of my desire to progress as an embedded systems engineer, I also want to explore development in its entirety in my free time
 
 - 👨‍💻 All of my personnal projects are public
 
