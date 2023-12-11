@@ -3,11 +3,9 @@
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
 <img align ="right" alt="Coding" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
 
-- 🔭 I’m currently working on [ChacalSite](https://github.com/ChacalTordu/ChacalSite)
+- 🔭 I’m currently working on my server
 
-- 🔭 I’m also currently working on [ChacalBot](https://github.com/ChacalTordu/ChacalBot)
-
-- 🌱 I’m currently learning **React.js / Tailwind CSS / Flask**
+- 🌱 I’m currently learning nothing haha
 
 - 📫 How to reach me **chacal.entreprise@gmail.com**
 
